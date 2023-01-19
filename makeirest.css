@@ -740,7 +740,7 @@
 .makeipics {
 	width: 100%;
 	float: left;
-	margin-top: 70px;
+	margin: 70px auto;
 	padding: 0px;
 }
 .firstpic {
